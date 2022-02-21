@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\obj\Debug\atividadedeLP.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\obj\Debug\atividadedeLP.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\bin\Debug\atividadedeLP.exe.config
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\bin\Debug\atividadedeLP.exe
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\bin\Debug\atividadedeLP.pdb
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\obj\Debug\atividadedeLP.exe
+C:\Users\Aluno\source\repos\atividadedeLP\atividadedeLP\obj\Debug\atividadedeLP.pdb
